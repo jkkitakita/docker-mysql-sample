@@ -1,0 +1,5 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "exec": "npx kill-port --port 3000 && yarn start"
+}
